@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": 6,
+      "name": "Art & Design Expo",
+      "description": "Showcasing the latest trends in art and design. s fmdsab,fnm",
+      "date": "2024-10-22",
+      "location": "Paris",
+      "capacity": 4000,
+      "organizer_id": 5
+    },
+    {
+      "id": 7,
+      "name": "Startup Pitch Night",
+      "description": "A night where startups present their ideas to investors.",
+      "date": "2024-07-12",
+      "location": "San Francisco",
+      "capacity": 800,
+      "organizer_id": 6
+    },
+    {
+      "id": 8,
+      "name": "Healthcare Innovation Forum",
+      "description": "Exploring the future of healthcare through technology.",
+      "date": "2024-10-05",
+      "location": "Berlin",
+      "capacity": 1800,
+      "organizer_id": 7
+    },
+    {
+      "name": "aasdasda",
+      "location": "2",
+      "description": "2asdsad",
+      "capacity": 2,
+      "date": "0002-02-02",
+      "organizer_id": 2,
+      "id": 9
+    },
+    {
+      "description": "aa",
+      "name": "a",
+      "date": "0002-02-22",
+      "location": "asd",
+      "capacity": 2,
+      "organizer_id": 2,
+      "id": 10
+    },
+    {
+      "description": "aasdasd",
+      "name": "a",
+      "date": "0002-02-02",
+      "location": "a",
+      "capacity": 2,
+      "organizer_id": 2,
+      "id": 11
+    }
+  ]
+}
